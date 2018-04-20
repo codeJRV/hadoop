@@ -18,4 +18,9 @@
 
 <configuration>
  
+   <property> 
+      <name>mapred.job.tracker</name> 
+      <value>hadoop-master:9001</value> 
+   </property> 
+
 </configuration>
